@@ -1,6 +1,6 @@
 {
   "name": "yc-uglify-js",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "description": "this is custom uglify package",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,7 @@
   "author": "zhangyaochun",
   "dependencies": {
     "uglify-js" : "2.4.6"
-  }
+  },
   "license": "BSD-2-Clause",
   "bugs": {
     "url": "https://github.com/zhangyaochun/yc-uglify-js/issues"
