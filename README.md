@@ -32,4 +32,6 @@ console.log(result.code); // minified output
 console.log(result.map);
 ```
 
+##### more info
+[uglify-js](https://www.npmjs.org/package/uglify-js)
 
