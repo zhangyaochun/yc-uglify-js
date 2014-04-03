@@ -1,0 +1,27 @@
+{
+  "name": "yc-uglify-js",
+  "version": "0.0.0",
+  "description": "this is custom uglify package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhangyaochun/yc-uglify-js.git"
+  },
+  "keywords": [
+    "yc"
+  ],
+  "engines" : {
+        "node" : ">= 0.8.0"
+  },
+  "author": "zhangyaochun",
+  "dependencies": {
+    "uglify-js" : "2.4.6"
+  }
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/zhangyaochun/yc-uglify-js/issues"
+  }
+}
